@@ -5,6 +5,11 @@ When we handle the text data, we always have concerns about the data features, p
 
 It is a python package which helps you to extract the basic features from the text data such as hashtags, stopwords, numerics which will help you to understand the data and improve your model more effectively.
 
+```
+pip install textfeatures
+```
+## [Google colab demo](https://colab.research.google.com/drive/1qzzVKptV9C6ebwDgta6rPW0u1s3GzDw5?usp=sharing)
+
 ## **Function structure:**
 
 ## function_name(dataframe, ”text_column”, ”new_column”)
