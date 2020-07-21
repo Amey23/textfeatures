@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+textfeatures/__init__.py
+textfeatures.egg-info/PKG-INFO
+textfeatures.egg-info/SOURCES.txt
+textfeatures.egg-info/dependency_links.txt
+textfeatures.egg-info/requires.txt
+textfeatures.egg-info/top_level.txt
